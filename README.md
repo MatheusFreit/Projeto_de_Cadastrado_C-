@@ -4,10 +4,10 @@ Este é um projeto de cadastro de usuários desenvolvido em C# com o objetivo de
 
 # Funcionalidades
 
-1- Cadastro de Usuários: Permite cadastrar novos usuários informando seus dados como nome, data de nascimento, número do documento, nome da rua e número da casa.<br>
-2- Busca de Usuário: Permite buscar um usuário pelo número do documento, exibindo suas informações caso seja encontrado.<br>
-3- Exclusão de Usuário: Permite excluir um usuário pelo número do documento.<br>
-4- Listagem de Usuários: Exibe a lista de todos os usuários cadastrados, mostrando suas informações.<br>
+1- <strong>Cadastro de Usuários:</strong> Permite cadastrar novos usuários informando seus dados como nome, data de nascimento, número do documento, nome da rua e número da casa.<br>
+2- <strong>Busca de Usuário:</strong> Permite buscar um usuário pelo número do documento, exibindo suas informações caso seja encontrado.<br>
+3- <strong>Exclusão de Usuário:</strong> Permite excluir um usuário pelo número do documento.<br>
+4- <strong>Listagem de Usuários:</strong> Exibe a lista de todos os usuários cadastrados, mostrando suas informações.<br>
 
 # Como usar
 
